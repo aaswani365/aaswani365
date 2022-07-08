@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://www.animatedimages.org/data/media/523/animated-hello-image-0007.gif" width="30px">Akshay Aswani</h1>
+<h1 align="center"><img src="https://www.animatedimages.org/data/media/523/animated-hello-image-0007.gif" width="30px"> i\ I'm Akshay Aswani</h1>
 <h3 align="center">git commit -m "Hello, I'm a Data Engineer at Futurense Technologies"</h3>
 
 
