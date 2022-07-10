@@ -18,3 +18,4 @@
 <p align="left">
 <a href="https://trailblazer.me/id/akki2089" target="blank"><img align="center" src="https://github.com/aaswani365/aaswani365/blob/main/src/images/icons/Social/salesforca.svg" alt="aaswani365" height="30" width="40" /></a>
 <a href="https://www.cloudskillsboost.google/public_profiles/db99eb93-fc0b-46d7-bd30-4ad1c229aa8b" target="blank"><img align="center" src="https://github.com/aaswani365/aaswani365/blob/main/src/images/icons/Social/google_cloud.svg" alt="aaswani365" height="30" width="40" /></a>
+ <a href="https://www.credly.com/earner/earned" target="blank"><img align="center" src="https://github.com/aaswani365/aaswani365/blob/main/src/images/icons/Social/medal.png" alt="aaswani365" height="30" width="40" /></a>
