@@ -7,3 +7,7 @@
 <code>[Data-warehouse-for-e-commerce-in-HIVE-using-AWS](https://github.com/chandrikadeb7/Face-Mask-Detection)</code>:☁️   
 <code>[Implement-scd-type-1-in-informatica](https://github.com/aaswani365/Implement-scd-type-1-in-informatica)</code>:🧑‍💻    
 <code>[Implement-SCD-Type-1-in-HDFS_SQOOP_HIVE](https://github.com/aaswani365/Implement-SCD-Type-1-in-HDFS_SQOOP_HIVE)</code>:🧑‍💻      
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/akshay-aswani-ikka/" target="blank"><img align="center" src="https://github.com/aaswani365/aaswani365/blob/main/src/images/icons/Social/linked-in-alt.svg" alt="chandrika-deb" height="30" width="40" /></a>
