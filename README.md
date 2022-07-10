@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://www.animatedimages.org/data/media/523/animated-hello-image-0007.gif" width="30px"> I'm Akshay Aswani</h1>
-<h3 align="center">I'm a Data Engineer Trainee at Futurense Technologies</h3>
+<h3 align="center">Working as Data Engineer Trainee at Futurense Technologies</h3>
 
 
 ### My Projects:question::rocket:
