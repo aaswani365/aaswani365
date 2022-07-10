@@ -10,4 +10,5 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/akshay-aswani-ikka/" target="blank"><img align="center" src="https://github.com/aaswani365/aaswani365/blob/main/src/images/icons/Social/linked-in-alt.svg" alt="chandrika-deb" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/akshay-aswani-ikka" target="blank"><img align="center" src="https://github.com/aaswani365/aaswani365/blob/main/src/images/icons/Social/linked-in-alt.svg" alt="aaswani365" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_akki_2089_" target="blank"><img align="center" src="https://github.com/aaswani365/aaswani365/blob/main/src/images/icons/Social/instagram.svg" alt="aaswani365" height="30" width="40" /></a>
