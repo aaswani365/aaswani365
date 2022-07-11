@@ -3,9 +3,9 @@
 
 
 ### My Projects:question::rocket:
-<code>[Data-warehouse-for-e-commerce-in-HIVE-using-AWS](https://github.com/aaswani365/Data-warehouse-for-e-commerce-in-HIVE-using-AWS)</code>:☁️   
-<code>[Data-pipeline-in-Informatica-SCD-Type1](https://github.com/aaswani365/Data-pipeline-in-Informatica-SCD-Type1)</code>:🧑‍💻    
-<code>[Loading-Online-Event-Hits-using-SQOOP-to-HIVE-via-Shell-Script](https://github.com/aaswani365/Loading-Online-Event-Hits-using-SQOOP-to-HIVE-via-Shell-Script)</code>:🧑‍💻      
+<code>[Data-warehouse-for-e-commerce-in-HIVE-using-AWS](https://github.com/aaswani365/Data-warehouse-for-e-commerce-in-HIVE-using-AWS)</code>☁️   
+<code>[Data-pipeline-in-Informatica-SCD-Type1](https://github.com/aaswani365/Data-pipeline-in-Informatica-SCD-Type1)</code>🧑‍💻    
+<code>[Loading-Online-Event-Hits-using-SQOOP-to-HIVE-via-Shell-Script](https://github.com/aaswani365/Loading-Online-Event-Hits-using-SQOOP-to-HIVE-via-Shell-Script)</code>🧑‍💻      
 <code>[Face-Mask-Detection](https://github.com/aaswani365/Face-Mask-Detection)</code>:mask:   
 
 <h3 align="left">Connect with me:</h3>
