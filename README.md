@@ -123,16 +123,19 @@ Customer Insights
 ---
 
 ## 📈 GitHub Statistics
+
 <p align="center">
   <img
-    src="https://github-readme-stats-akki2089.vercel.app/api?username=aaswani365&show_icons=true&theme=tokyonight&v=2"
+    height="170"
+    src="https://github-readme-stats-delta-dusky-48.vercel.app/api?username=aaswani365&show_icons=true&theme=tokyonight&hide_border=true"
     alt="GitHub Stats"
   />
+  <img
+    height="170"
+    src="https://github-readme-stats-delta-dusky-48.vercel.app/api/top-langs/?username=aaswani365&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
-
-https://github-readme-stats-akki2089.vercel.app/api?username=aaswani365&show_icons=true&theme=tokyonight&v=1752400000
-
-![GitHub Stats](https://github-readme-stats-akki2089.vercel.app/api?username=aaswani365&show_icons=true&theme=tokyonight&v=2)
 
 ---
 
