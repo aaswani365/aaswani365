@@ -1,73 +1,134 @@
-<h1 align="center"><img src="https://www.animatedimages.org/data/media/523/animated-hello-image-0007.gif" width="40px"> I'm Akshay Aswani</h1>
+<h1 align="center">
+Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Akshay Aswani
+</h1>
 
 <h3 align="center">
-Data Analyst | Power BI Developer | SQL | Python
+Data Analyst | Power BI Developer | SQL Developer | Python
 </h3>
 
 <p align="center">
-Transforming Data into Actionable Business Insights 📊
+Transforming Raw Data into Business Insights 📊
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=aaswani365&label=Profile%20Views&color=0e75b6&style=flat" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=650&lines=Data+Analyst;Power+BI+Developer;SQL+Developer;Python+Enthusiast;Business+Intelligence+Professional">
+
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-🎯 Aspiring Data Analyst
+🎯 Aspiring Data Analyst with 3+ years of IT experience
 
-📊 Passionate about Power BI, SQL, Excel and Python
+💼 Currently working as NOC Engineer at eClinicalWorks
 
-🏆 Rising Star Award Recipient at eClinicalWorks
+📊 Passionate about Data Analytics, Business Intelligence and Visualization
 
-💼 Currently working as NOC Engineer in US Health Care
+📈 Skilled in SQL, Power BI, Excel and Python
 
-🌱 Learning Advanced Python & Data Analytics
+🌱 Currently building end-to-end Data Analytics Projects
+
+🏆 Rising Star Award Recipient
 
 📍 Jaipur, Rajasthan, India
 
----
-
-## 🛠️ Tech Stack
-
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=PowerBI&logoColor=black)
-
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+🚀 Open to Data Analyst Opportunities
 
 ---
 
-## 📂 Featured Projects
+## ⚙️ Tech Stack
 
-### 🛒 Amazon Sales Analytics Dashboard
-Power BI Dashboard with KPIs, drill-through analysis, bookmarks, and business insights.
+<p>
 
-### 🚖 Cab Booking Analytics Dashboard
-150K+ booking records analysis with revenue and operational KPIs.
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
 
-### 👥 HR Analytics Dashboard
-Employee attrition and workforce performance analysis.
+</p>
 
-### 📊 SQL Data Analytics Portfolio
-Complex SQL queries, business KPIs and reporting solutions.
+Power BI • SQL Server • Excel • DAX • Power Query • Pandas • NumPy
+
+---
+
+# 🚀 Featured Projects
+
+## 🏪 Retail Sales Analytics & Inventory Management System
+
+✔ SQL Server Database
+
+✔ Normalized Database Design
+
+✔ Inventory Management
+
+✔ Sales Analytics
+
+✔ Business KPIs
+
+✔ Dashboard Ready
+
+---
+
+## 📊 Amazon Sales Dashboard
+
+Power BI dashboard with
+
+- Sales KPIs
+
+- Customer Insights
+
+- Product Analysis
+
+- Profit Analysis
+
+---
+
+## 🚖 Cab Booking Analytics
+
+150K+ booking records
+
+Business KPIs
+
+Revenue Analysis
+
+Driver Performance
+
+Customer Insights
+
+---
+
+## 💡 Skills
+
+### Data Analytics
+
+- SQL
+- Power BI
+- Excel
+- Python
+
+### Databases
+
+- SQL Server
+- MySQL
+
+### Visualization
+
+- Power BI
+- Excel Charts
+
+### Other
+
+- Git
+- GitHub
 
 ---
 
 ## 📈 GitHub Statistics
 
-<p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=aaswani365&show_icons=true&theme=tokyonight" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaswani365&layout=compact&theme=tokyonight" />
-</p>
+![GitHub Stats](https://github-readme-stats-akki2089.vercel.app/api?username=aaswani365)
+
+![GitHub Stats](https://github-readme-stats-akki2089.vercel.app/api?username=aaswani365&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
+
+![Top Languages](https://github-readme-stats-akki2089.vercel.app/api/top-langs/?username=aaswani365&layout=compact&theme=tokyonight)
 
 ---
 
@@ -75,6 +136,13 @@ Complex SQL queries, business KPIs and reporting solutions.
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=aaswani365&theme=tokyonight" />
+</p>
+
+---
+
+## 📊 GitHub Activity Graph
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aaswani365&theme=tokyo-night"/>
 </p>
 
 ---
