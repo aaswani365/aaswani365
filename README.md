@@ -16,6 +16,12 @@ Transforming Raw Data into Business Insights 📊
 
 </p>
 
+<p align="center">
+  <a href="https://aaswani365.github.io/" target="_blank">
+    🌐 <strong>Visit My Portfolio →</strong>
+  </a>
+</p>
+
 ---
 
 ## 👨‍💻 About Me
