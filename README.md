@@ -3,17 +3,15 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 </h1>
 
 <h3 align="center">
-Data Analyst | Power BI Developer | SQL Developer | Python
+Data Analytics | Power BI | SQL | Excel | Python
 </h3>
 
 <p align="center">
-Transforming Raw Data into Business Insights 📊
+Turning Data into Actionable Business Insights 📊
 </p>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=650&lines=Data+Analyst;Power+BI+Developer;SQL+Developer;Python+Enthusiast;Business+Intelligence+Professional">
-
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=750&lines=Data+Analytics;Power+BI+Development;SQL+Analytics;Excel+Analytics;Business+Intelligence;Operations+Analytics">
 </p>
 
 <p align="center">
@@ -26,121 +24,226 @@ Transforming Raw Data into Business Insights 📊
 
 ## 👨‍💻 About Me
 
-🎯 Aspiring Data Analyst with 3+ years of IT experience
+💼 **NOC Engineer at eClinicalWorks** with **3+ years of IT experience**
 
-💼 Currently working as NOC Engineer at eClinicalWorks
+📊 Transitioning my experience in **IT Operations, Incident Management & Monitoring** into **Data Analytics and Business Intelligence**
 
-📊 Passionate about Data Analytics, Business Intelligence and Visualization
+🔎 Skilled in **SQL, Power BI, Excel and Python** for transforming raw data into actionable business insights
 
-📈 Skilled in SQL, Power BI, Excel and Python
+📈 Building end-to-end analytics solutions covering **data preparation, SQL analysis, data modeling, KPI development and dashboarding**
 
-🌱 Currently building end-to-end Data Analytics Projects
+🗄️ Experience working with **SQL Server and MySQL**
 
-🏆 Rising Star Award Recipient
+📊 Interested in **Data Analytics, Business Intelligence, Operations Analytics and Data Visualization**
+
+🏆 **Rising Star Award Recipient**
 
 📍 Jaipur, Rajasthan, India
 
-🚀 Open to Data Analyst Opportunities
+🚀 **Open to Data Analyst / Power BI Analyst Opportunities**
 
 ---
 
 ## ⚙️ Tech Stack
 
+### 📊 Analytics & Business Intelligence
+`Power BI` `Microsoft Excel` `DAX` `Power Query`
+
+### 🗄️ Databases & SQL
+`SQL Server` `MySQL` `SQL`
+
+### 🐍 Programming & Data Analysis
+`Python` `Pandas` `NumPy`
+
+### 🛠️ Tools
+`Git` `GitHub` `VS Code`
+
 <p>
-
 <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
-
 </p>
-
-Power BI • SQL Server • Excel • DAX • Power Query • Pandas • NumPy
 
 ---
 
 # 🚀 Featured Projects
 
-## 🏪 Retail Sales Analytics & Inventory Management System
-
-✔ SQL Server Database
-
-✔ Normalized Database Design
-
-✔ Inventory Management
-
-✔ Sales Analytics
-
-✔ Business KPIs
-
-✔ Dashboard Ready
+My portfolio focuses on solving business problems through **data analysis, KPI development, data modeling and interactive dashboards**.
 
 ---
 
-## 📊 Amazon Sales Dashboard
+## 💰 Loan Portfolio & Financial Decision Engine
 
-Power BI dashboard with
+**Advanced Excel | Banking & Financial Analytics**
 
-- Sales KPIs
+An end-to-end Excel analytics solution designed to analyze a simulated **10,000-record loan portfolio** and support portfolio monitoring, risk analysis and borrower-level financial decisions.
 
-- Customer Insights
+### 🔹 Key Features
 
-- Product Analysis
+- 📊 Executive Loan Portfolio Dashboard
+- 💰 Portfolio & Outstanding Exposure Analysis
+- ⚠️ Credit Risk & Delinquency Analysis
+- 🧮 Dynamic Loan EMI Calculator
+- 📅 Loan Amortization Schedule
+- 🔮 Financial Forecasting
+- 🧪 Scenario Analysis
+- 🎯 Financial Decision Engine
+- 📈 Portfolio KPI Analysis
+- 🔍 Data Quality & Validation Checks
 
-- Profit Analysis
+### 🛠 Tech Stack
+`Microsoft Excel` `PivotTables` `Advanced Formulas` `Financial Functions` `Data Validation` `Dashboarding`
+
+### 🔗 Project
+[📂 View GitHub Repository](https://github.com/aaswani365/Loan-Portfolio-Financial-Decision-Engine)
 
 ---
 
-## 🚖 Cab Booking Analytics
+## 🏦 Bank Loan Analytics Dashboard
 
-150K+ booking records
+**Power BI | SQL | Banking Analytics**
 
-Business KPIs
+An interactive banking analytics solution for analyzing loan applications, funded amounts, repayments, borrower characteristics and overall loan portfolio performance.
 
-Revenue Analysis
+### 🔹 Key Features
 
-Driver Performance
+- 📊 Loan Portfolio KPI Monitoring
+- 💵 Funded Amount & Payment Analysis
+- 📈 Loan Application Trend Analysis
+- 🟢 Good Loan vs 🔴 Bad Loan Analysis
+- 👥 Borrower Segmentation
+- 🗺️ Geographic Loan Analysis
+- 📋 Loan Purpose Analysis
+- 🎛️ Interactive Power BI Dashboard
 
-Customer Insights
+### 🛠 Tech Stack
+`Power BI` `SQL` `DAX` `Power Query` `Data Visualization`
+
+### 🔗 Project
+[📂 View GitHub Repository](https://github.com/aaswani365/bank-loan-analytics-dashboard)
 
 ---
 
-## 💡 Skills
+## 🚖 TOLA Cabs — Jaipur Analytics
 
-### Data Analytics
+**MySQL | Power BI | Transportation Analytics**
 
-- SQL
-- Power BI
-- Excel
-- Python
+An end-to-end ride-booking analytics project using **150K booking records** to analyze booking performance, revenue, cancellations, customers and driver performance across Jaipur.
 
-### Databases
+### 🔹 Key Features
 
-- SQL Server
-- MySQL
+- 📊 Booking Performance Analysis
+- 💰 Revenue & Booking Value Analysis
+- ❌ Customer & Driver Cancellation Analysis
+- 🚗 Vehicle Type Performance
+- ⭐ Driver & Customer Rating Analysis
+- 👥 Top Customer Analysis
+- 📍 Ride Distance Analysis
+- 📈 Booking Growth & Trend Analysis
+- 🎛️ Interactive Power BI Dashboard
 
-### Visualization
+### 🛠 Tech Stack
+`MySQL` `Power BI` `DAX` `Power Query` `Data Modeling`
 
-- Power BI
-- Excel Charts
+### 🔗 Project
+[📂 View GitHub Repository](https://github.com/aaswani365/tola-cabs-jaipur-analytics)
 
-### Other
+---
 
-- Git
-- GitHub
+# 🚧 Currently Building
+
+These projects are currently under development as part of my advanced analytics portfolio.
+
+---
+
+## 🖥️ Akitya IT Services — NOC Incident, SLA & Operations Analytics
+
+**MySQL | Power BI | Operations Analytics**
+
+An end-to-end analytics project designed around realistic **NOC operations and incident-management scenarios**, connecting my professional NOC experience with data analytics.
+
+### 🔹 Project Scope
+
+- 50K+ Incident Records
+- Incident Lifecycle Analysis
+- SLA Performance Monitoring
+- Priority & Severity Analysis
+- Engineer Performance Analysis
+- Service & Customer Analysis
+- Root Cause Analysis
+- Escalation Analysis
+- Operational Improvement Analysis
+- Star Schema Data Model
+- Power BI Executive Dashboard
+
+**Status:** 🚧 In Progress
+
+---
+
+## 🏪 Retail Sales & Inventory Intelligence
+
+**SQL Server | Power BI | Retail Analytics**
+
+An enterprise-style analytics project combining relational database development, SQL analytics, data quality validation, inventory intelligence and Power BI reporting.
+
+### 🔹 Project Scope
+
+- Relational SQL Server Database
+- Sales & Revenue Analytics
+- Inventory Management
+- Product & Store Performance
+- Customer Analytics
+- Returns & Refund Analysis
+- Executive KPI Framework
+- Data Quality Validation
+- Analytics Views
+- Power BI Semantic Model
+- Multi-page Interactive Dashboard
+
+**Status:** 🚧 In Progress
+
+---
+
+## 🔄 My Analytics Workflow
+
+```text
+Business Problem
+      ↓
+Data Collection / Generation
+      ↓
+Data Cleaning & Validation
+      ↓
+SQL / Excel Analysis
+      ↓
+Data Modeling
+      ↓
+KPI Development
+      ↓
+Power BI / Excel Dashboard
+      ↓
+Business Insights & Recommendations
+```
+
+---
+
+## 💡 Core Skills
+
+| Area | Skills |
+|---|---|
+| 📊 Data Analytics | Data Cleaning, EDA, KPI Analysis, Business Analysis |
+| 🗄️ SQL | Joins, CTEs, Aggregations, Views, Window Functions |
+| 📈 Power BI | DAX, Power Query, Data Modeling, Interactive Dashboards |
+| 📗 Excel | Advanced Formulas, PivotTables, Lookups, Financial Analysis, Dashboards |
+| 🐍 Python | Pandas, NumPy, Data Analysis |
+| 🗃️ Databases | SQL Server, MySQL |
+| 💼 Domain | IT Operations, NOC, Incident Management, Banking, Retail, Transportation |
+| 🛠️ Other | Git, GitHub, VS Code |
 
 ---
 
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats-delta-dusky-48.vercel.app/api?username=aaswani365&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats-delta-dusky-48.vercel.app/api/top-langs/?username=aaswani365&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
+  <img height="170" src="https://github-readme-stats-delta-dusky-48.vercel.app/api?username=aaswani365&show_icons=true&theme=tokyonight&hide_border=true" alt="Akshay's GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats-delta-dusky-48.vercel.app/api/top-langs/?username=aaswani365&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
@@ -148,42 +251,69 @@ Customer Insights
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=aaswani365&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=aaswani365&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 ---
 
-## 📊 GitHub Activity Graph
+## 📊 GitHub Activity
+
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aaswani365&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aaswani365&theme=tokyo-night" alt="GitHub Activity Graph"/>
 </p>
 
 ---
 
 ## 🎯 2026 Goals
 
-✅ Transition into a Data Analyst Role
-
-✅ Build 5+ End-to-End Power BI Projects
-
-✅ Master SQL for Analytics
-
-✅ Advance Python Skills
-
-✅ Grow GitHub Portfolio
+- 🎯 Transition into a **Data Analyst / Power BI Analyst** role
+- 📊 Build **5+ end-to-end analytics projects**
+- 🗄️ Strengthen **advanced SQL for analytics**
+- 📈 Advance **Power BI, DAX & Data Modeling**
+- 🐍 Improve **Python for Data Analysis**
+- 🏆 Build an interview-ready analytics portfolio
 
 ---
 
-<h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://www.linkedin.com/in/akshay-aswani-ikka" target="blank"><img align="center" src="https://github.com/aaswani365/aaswani365/blob/main/src/images/icons/Social/linked-in-alt.svg" alt="aaswani365" height="30" width="40" /></a> <a href="https://www.instagram.com/_akki_2089_" target="blank"><img align="center" src="https://github.com/aaswani365/aaswani365/blob/main/src/images/icons/Social/instagram.svg" alt="aaswani365" height="30" width="40" /></a> </p>
+## 🏆 Achievements
+
+<p align="left">
+  <a href="https://trailblazer.me/id/akki2089" target="_blank">
+    <img src="https://github.com/aaswani365/aaswani365/blob/main/src/images/icons/Social/salesforca.svg" alt="Salesforce Trailblazer" height="30" width="40"/>
+  </a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/db99eb93-fc0b-46d7-bd30-4ad1c229aa8b" target="_blank">
+    <img src="https://github.com/aaswani365/aaswani365/blob/main/src/images/icons/Social/google_cloud.svg" alt="Google Cloud Skills Boost" height="30" width="40"/>
+  </a>
+  <a href="https://www.credly.com/users/akshay-aswani.5ff8f319" target="_blank">
+    <img src="https://github.com/aaswani365/aaswani365/blob/main/src/images/icons/Social/medal.png" alt="Credly" height="30" width="40"/>
+  </a>
+</p>
 
 ---
 
-<h3 align="left">My Achievements:question:🏆</h3> <p align="left"> <a href="https://trailblazer.me/id/akki2089" target="blank"><img align="center" src="https://github.com/aaswani365/aaswani365/blob/main/src/images/icons/Social/salesforca.svg" alt="aaswani365" height="30" width="40" /></a> <a href="https://www.cloudskillsboost.google/public_profiles/db99eb93-fc0b-46d7-bd30-4ad1c229aa8b" target="blank"><img align="center" src="https://github.com/aaswani365/aaswani365/blob/main/src/images/icons/Social/google_cloud.svg" alt="aaswani365" height="30" width="40" /></a> <a href="https://www.credly.com/users/akshay-aswani.5ff8f319" target="blank"><img align="center" src="https://github.com/aaswani365/aaswani365/blob/main/src/images/icons/Social/medal.png" alt="aaswani365" height="30" width="40" /></a>
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/akshay-aswani-ikka" target="_blank">
+    <img src="https://github.com/aaswani365/aaswani365/blob/main/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+  </a>
+  <a href="https://www.instagram.com/_akki_2089_" target="_blank">
+    <img src="https://github.com/aaswani365/aaswani365/blob/main/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
+  </a>
+</p>
+
+📧 **Email:** aswaniakshay@gmail.com
+
+🌐 **Portfolio:** [aaswani365.github.io](https://aaswani365.github.io/)
+
+💼 **Open to Data Analyst / Power BI Analyst Opportunities**
 
 ---
 
-### 📫 Reach Me
+<p align="center">
+⭐ <strong>Thanks for visiting my profile!</strong>
+</p>
 
-📧 aswaniakshay@gmail.com
-
-💼 Open to Data Analyst Opportunities
+<p align="center">
+<i>Transforming operational experience and raw data into meaningful business insights.</i>
+</p>
