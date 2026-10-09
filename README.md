@@ -109,13 +109,6 @@ An enterprise-style retail analytics solution with sales, inventory, customers, 
 
 </div>
 
-<details>
-<summary>⚙️ How to enable the contribution snake</summary>
-
-Add the workflow file supplied alongside this README at `.github/workflows/snake.yml`, commit it, then run **Actions → Generate contribution snake → Run workflow**. GitHub Actions must be enabled for the profile repository. The workflow publishes the SVG to the `output` branch.
-
-</details>
-
 ---
 
 ## 🌐 Connect With Me
