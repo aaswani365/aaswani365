@@ -93,11 +93,10 @@ An enterprise-style retail analytics solution with sales, inventory, customers, 
 <div align="center">
 
 <img src="https://github-readme-stats-delta-dusky-48.vercel.app/api?username=aaswani365&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics" />
+
 <img src="https://github-readme-stats-delta-dusky-48.vercel.app/api/top-langs/?username=aaswani365&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used repository languages" />
 
 <img src="https://streak-stats.demolab.com?user=aaswani365&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aaswani365&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
 
 </div>
 
