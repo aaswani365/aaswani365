@@ -101,13 +101,21 @@ An enterprise-style retail analytics solution with sales, inventory, customers, 
 
 </div>
 
-### 🐍 Contribution Snake
+<h2 align="center">🐍 Contribution Snake</h2>
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/aaswani365/aaswani365/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake (requires workflow setup)" />
-
-</div>
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/aaswani365/aaswani365/output/github-contribution-grid-snake-dark.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/aaswani365/aaswani365/output/github-contribution-grid-snake.svg"
+      width="100%"
+    />
+  </picture>
+</p>
 
 ---
 
